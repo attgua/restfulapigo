@@ -11,3 +11,6 @@ go mod tidy
 
 go run main.go
 ```
+
+
+font: https://www.youtube.com/watch?v=YMQUQ6XQgz8&ab_channel=TutorialEdge
